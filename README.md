@@ -4,7 +4,6 @@
 
 Free standalone notification script for FiveM.
 
-|Preview|
 Preview - https://www.youtube.com/watch?v=VnhHzVNvA8A
 
 |Client Side|

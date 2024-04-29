@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+
+* {
+    font-family: "Signika", sans-serif;
+    user-select: none;
+}
+
+.success-icon::before {
+    font-family: "Font Awesome 6 Free";
+    content: "\f058";
+    color: #49be25;
+}
+
+.error-icon::before {
+    font-family: "Font Awesome 6 Free";
+    content: "\f057";
+    color: #be2525;
+}
+
+.warning-icon::before {
+    font-family: "Font Awesome 6 Free";
+    content: "\f06a";
+    color: #f3ef16;
+}
+
+.info-icon::before {
+    font-family: "Font Awesome 6 Free";
+    content: "\f05a";
+    color: #6c25be;
+}
+
+@keyframes slide-in {
+    100% {
+        
+        transform: translateX(0%);
+    }
+}
+
+@keyframes slide-out {
+    0% {
+        
+        transform: translateX(1000%);
+    }
+}
+
+

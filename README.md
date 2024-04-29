@@ -4,7 +4,8 @@
 
 Free standalone notification script for FiveM.
 
-Preview - https://www.youtube.com/watch?v=VnhHzVNvA8A
+|Preview|
+[Preview](https://www.youtube.com/watch?v=VnhHzVNvA8A)
 
 |Client Side|
 
@@ -20,4 +21,4 @@ Notification types:
  - error
  - warning
 
- If you have any problems, questions or ideas you can make a ticket in the Discord(https://discord.com/invite/5UZfvsbHHK) server.
+ If you have any problems, questions or ideas you can make a ticket in the [Discord](https://discord.com/invite/5UZfvsbHHK) server.

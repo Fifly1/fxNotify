@@ -9,7 +9,7 @@ function fx_notify(type, title, message, time)
 end
 
 RegisterNetEvent("fx_notify:Notify")
-    AddEventHandler('okokNotify:Alert', function(type, title, message, time)
+    AddEventHandler('fx_notify:Notify', function(type, title, message, time)
     fx_notify(type, title, message, time)
 end)
 

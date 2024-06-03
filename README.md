@@ -21,4 +21,6 @@ Notification types:
  - error
  - warning
 
+**MAKE SURE TO RENAME THE SCRIPT TO fx_notify**
+
  If you have any problems, questions or ideas you can make a ticket in the [Discord](https://discord.com/invite/5UZfvsbHHK) server.
